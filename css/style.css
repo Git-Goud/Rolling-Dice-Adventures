@@ -99,7 +99,7 @@ h3 a,
 h4 a,
 h5 a,
 h6 a {
-    color: #212121;
+    color: #73ac31;
     text-decoration: none!important;
     opacity: 1
 }
@@ -124,7 +124,7 @@ p {
 }
 
 a {
-    color: #222222;
+    color: #73ac31;
     text-decoration: none;
     outline: none !important;
 }
@@ -156,7 +156,7 @@ img {
 .btn-custom {
     margin-top: 20px;
     background-color: transparent !important;
-    border: 2px solid #ddd;
+    border: 2px solid #cdcdcd;
     padding: 12px 40px;
     font-size: 16px;
 }
@@ -164,13 +164,13 @@ img {
 .lead {
     font-size: 18px;
     line-height: 30px;
-    color: #767676;
+    color: #317373;
     margin: 0;
     padding: 0;
 }
 
 .form-control:focus {
-    border-color: #ffffff !important;
+    border-color: #bdff73 !important;
     box-shadow: 0 0 0 .2rem rgba(255, 255, 255, .25);
 }
 
@@ -229,7 +229,7 @@ button {
 .header_section_top {
     width: 100%;
     float: left;
-    background-color: #2b2a29;
+    background-color: #526229;
     clip-path: polygon(0 0, 100% 0, 96% 100%, 3% 100%);
     height: auto;
     padding: 10px 0px;
@@ -250,16 +250,16 @@ button {
 .custom_menu li {
     float: left;
     font-size: 16px;
-    color: #f1f1f1;
+    color: #ffffff;
     padding: 6px 10px 0px 10px;
 }
 
 .custom_menu li a {
-    color: #f1f1f1;
+    color: #ffffff;
 }
 
 .custom_menu li a:hover {
-    color: #f26522;
+    color: #ac0031;
 }
 
 
@@ -321,7 +321,7 @@ button {
 }
 
 .sidenav a:hover {
-    color: #f26522;
+    color: #ff6a62;
 }
 
 .sidenav .closebtn {
@@ -366,14 +366,14 @@ button {
 
 .btn-secondary {
     color: #fff;
-    background-color: #30302e;
-    border-color: #30302e;
+    background-color: #184a4a;
+    border-color: #184a4a;
 }
 
 .btn-secondary:hover {
     color: #fff;
-    background-color: #30302e;
-    border-color: #30302e;
+    background-color: #184a4a;
+    border-color: #184a4a;
 }
 
 .show>.btn-secondary.dropdown-toggle:focus {
@@ -429,18 +429,18 @@ button {
 .login_menu li {
     float: left;
     font-size: 16px;
-    color: #ffffff;
+    color: #cdcdcd;
     text-transform: uppercase;
     padding-left: 10px;
     padding-top: 4px;
 }
 
 .login_menu li a {
-    color: #ffffff;
+    color: #cdcdcd;
 }
 
 .login_menu li a:hover {
-    color: #f26522;
+    color: #ac0031;
 }
 
 .padding_10 {
@@ -464,7 +464,7 @@ button {
 }
 
 a:hover {
-    color: #f26522;
+    color: #ee2039;
     text-decoration: underline;
 }
 
@@ -503,7 +503,7 @@ a:hover {
     float: left;
     font-size: 16px;
     color: #ffffff;
-    background-color: #252525;
+    background-color: #184a4a;
     text-align: center;
     padding: 10px 0px;
     border-radius: 5px;
@@ -512,7 +512,7 @@ a:hover {
 }
 
 .buynow_bt a:hover {
-    background-color: #f26522;
+    background-color: #ee2039;
     color: #ffffff;
 }
 
@@ -559,7 +559,7 @@ a:hover {
 .fashion_taital {
     width: 100%;
     font-size: 40px;
-    color: #30302e;
+    color: #184a4a;
     text-align: center;
     font-weight: bold;
 }
@@ -581,7 +581,7 @@ a:hover {
 .shirt_text {
     width: 100%;
     font-size: 20px;
-    color: #30302e;
+    color: #184a4a;
     text-align: center;
     font-weight: bold;
     padding-bottom: 5px;
@@ -590,7 +590,7 @@ a:hover {
 .price_text {
     width: 100%;
     font-size: 16px;
-    color: #f26522;
+    color: #184a4a;
     text-align: center;
     margin: 0px;
 }
@@ -615,7 +615,7 @@ a:hover {
 .buy_bt a {
     width: 100%;
     font-size: 16px;
-    color: #f26522;
+    color: #ee2039;
     background-color: transparent;
     text-align: right;
     font-weight: bold;
@@ -623,7 +623,7 @@ a:hover {
 
 .buy_bt a:hover {
     background-color: transparent;
-    color: #262626;
+    color: #184a4a;
 }
 
 .seemore_bt {
@@ -642,7 +642,7 @@ a:hover {
 
 .seemore_bt a:hover {
     background-color: transparent;
-    color: #f26522;
+    color: #ee2039;
 }
 
 #main_slider a.carousel-control-next {
@@ -659,7 +659,7 @@ a:hover {
 #main_slider .carousel-control-prev {
     width: 55px;
     height: 55px;
-    background-color: #30302e;
+    background-color: #184a4a;
     opacity: 1;
     font-size: 30px;
     color: #ffffff;
@@ -670,7 +670,7 @@ a:hover {
 #main_slider .carousel-control-prev:focus,
 #main_slider .carousel-control-prev:hover {
     color: #fff;
-    background-color: #f26522;
+    background-color: #ee2039;
 }
 
 
@@ -700,7 +700,7 @@ a:hover {
 #electronic_main_slider .carousel-control-prev {
     width: 55px;
     height: 55px;
-    background-color: #30302e;
+    background-color: #184a4a;
     opacity: 1;
     font-size: 30px;
     color: #ffffff;
@@ -711,7 +711,7 @@ a:hover {
 #electronic_main_slider .carousel-control-prev:focus,
 #electronic_main_slider .carousel-control-prev:hover {
     color: #fff;
-    background-color: #f26522;
+    background-color: #ee2039;
 }
 
 
@@ -747,7 +747,7 @@ a:hover {
 #jewellery_main_slider .carousel-control-prev {
     width: 55px;
     height: 55px;
-    background-color: #30302e;
+    background-color: #184a4a;
     opacity: 1;
     font-size: 30px;
     color: #ffffff;
@@ -758,7 +758,7 @@ a:hover {
 #jewellery_main_slider .carousel-control-prev:focus,
 #jewellery_main_slider .carousel-control-prev:hover {
     color: #fff;
-    background-color: #f26522;
+    background-color: #ee2039;
 }
 
 
@@ -774,9 +774,9 @@ a:hover {
     border: 16px solid #f3f3f3;
     border-radius: 50%;
     border-top: 16px solid #414744;
-    border-right: 16px solid #f26522;
+    border-right: 16px solid #ee2039;
     border-bottom: 16px solid #414744;
-    border-left: 16px solid #f26522;
+    border-left: 16px solid #ee2039;
     width: 120px;
     height: 120px;
     -webkit-animation: spin 2s linear infinite;
@@ -817,7 +817,7 @@ a:hover {
 .footer_section {
     width: 100%;
     float: left;
-    background-color: #252525;
+    background-color: #184a4a;
     height: auto;
 }
 
@@ -853,7 +853,7 @@ input.mail_bt::placeholder {
     width: 30%;
     float: right;
     font-size: 16px;
-    color: #f26522;
+    color: #ee2039;
     background-color: transparent;
     padding: 20px 0px 5px 0px;
     border-radius: 30px;
@@ -863,7 +863,7 @@ input.mail_bt::placeholder {
 }
 
 .subscribe_bt a {
-    color: #f26522;
+    color: #ee2039;
 }
 
 .subscribe_bt a:hover {
@@ -894,7 +894,7 @@ input.mail_bt::placeholder {
 }
 
 .footer_menu li a:hover {
-    color: #f26522;
+    color: #ee2039;
 }
 
 .location_main {
@@ -916,7 +916,7 @@ input.mail_bt::placeholder {
 }
 
 .location_main a:hover {
-    color: #f26522;
+    color: #ee2039;
 }
 
 
@@ -928,7 +928,7 @@ input.mail_bt::placeholder {
 .copyright_section {
     width: 100%;
     float: left;
-    background-color: #252525;
+    background-color: #184a4a;
     height: auto;
 }
 
@@ -946,7 +946,7 @@ input.mail_bt::placeholder {
 }
 
 .copyright_text a:hover {
-    color: #f26522;
+    color: #ee2039;
 }
 
 .margin_top90 {
