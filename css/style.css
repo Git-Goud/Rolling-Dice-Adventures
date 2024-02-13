@@ -229,7 +229,7 @@ button {
 .header_section_top {
     width: 100%;
     float: left;
-    background-color: #526229;
+    background-color: #62d5b4;
     clip-path: polygon(0 0, 100% 0, 96% 100%, 3% 100%);
     height: auto;
     padding: 10px 0px;
@@ -670,7 +670,7 @@ a:hover {
 #main_slider .carousel-control-prev:focus,
 #main_slider .carousel-control-prev:hover {
     color: #fff;
-    background-color: #ee2039;
+    background-color: #73ac31;
 }
 
 
@@ -711,7 +711,7 @@ a:hover {
 #electronic_main_slider .carousel-control-prev:focus,
 #electronic_main_slider .carousel-control-prev:hover {
     color: #fff;
-    background-color: #ee2039;
+    background-color: #73ac31;
 }
 
 
@@ -758,7 +758,7 @@ a:hover {
 #jewellery_main_slider .carousel-control-prev:focus,
 #jewellery_main_slider .carousel-control-prev:hover {
     color: #fff;
-    background-color: #ee2039;
+    background-color: #73ac31;
 }
 
 
@@ -774,9 +774,9 @@ a:hover {
     border: 16px solid #f3f3f3;
     border-radius: 50%;
     border-top: 16px solid #414744;
-    border-right: 16px solid #ee2039;
+    border-right: 16px solid #73ac31;
     border-bottom: 16px solid #414744;
-    border-left: 16px solid #ee2039;
+    border-left: 16px solid #73ac31;
     width: 120px;
     height: 120px;
     -webkit-animation: spin 2s linear infinite;
@@ -863,7 +863,7 @@ input.mail_bt::placeholder {
 }
 
 .subscribe_bt a {
-    color: #ee2039;
+    color: #73ac31;
 }
 
 .subscribe_bt a:hover {
